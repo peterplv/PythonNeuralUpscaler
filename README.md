@@ -1,4 +1,4 @@
-# PythonNeiroUpscaler
+# Python AI Upscaler
 ### Neural Network Image/Video Upscaler in Python
 
 ### Manuals
